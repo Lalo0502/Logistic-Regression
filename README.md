@@ -39,6 +39,7 @@ The code will load the data from the DMV_Written_Tests.csv file, which contains 
 
 The output of the code should look something like this:
 
+![plot](Data.png)
 Cost at initialization 0.6931471805599453
 Gradient at initialization: [[-0.1       ]
  [-0.28122914]
